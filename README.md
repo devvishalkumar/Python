@@ -10,43 +10,43 @@ Created by Guido van Rossum and first released in 1991, Python emphasizes code r
 
 Features
 
-Easy-to-read and simple syntax
-Interpreted and platform-independent
-Dynamically typed
-Object-oriented and supports multiple paradigms
-Extensive standard library
-Open-source and community-supported
-Large ecosystem of frameworks and third-party libraries
-Supports integration with other languages and tools
+- Easy-to-read and simple syntax
+- Interpreted and platform-independent
+- Dynamically typed
+- Object-oriented and supports multiple paradigms
+- Extensive standard library
+- Open-source and community-supported
+- Large ecosystem of frameworks and third-party libraries
+- Supports integration with other languages and tools
 
 Benefits
 
-Rapid development and prototyping
-Enhances productivity due to simplicity and readability
-Versatile: usable in web, desktop, mobile, AI/ML, and data science projects
-Cross-platform support
-Beginner-friendly and widely adopted in industry
+- Rapid development and prototyping
+- Enhances productivity due to simplicity and readability
+- Versatile: usable in web, desktop, mobile, AI/ML, and data science projects
+- Cross-platform support
+- Beginner-friendly and widely adopted in industry
 
 Advantages
 
-Large community and ecosystem
-Extensive support for scientific computing and automation
-Easy integration with other tools and languages
-Wide adoption in professional and enterprise applications
-Continuous development and updates keep it modern and relevant
+- Large community and ecosystem
+- Extensive support for scientific computing and automation
+- Easy integration with other tools and languages
+- Wide adoption in professional and enterprise applications
+- Continuous development and updates keep it modern and relevant
 
 Disadvantages
-Slower execution compared to compiled languages like C/C++
-High memory consumption in large applications
-Mobile development support is limited
-Not suitable for low-level programming
-Dependency on third-party libraries for some advanced functionalities
+
+- Slower execution compared to compiled languages like C/C++
+- High memory consumption in large applications
+- Mobile development support is limited
+- Not suitable for low-level programming
+- Dependency on third-party libraries for some advanced functionalities
 
 Future Scope
-Dominates fields like AI, Machine Learning, Data Science, and Automation
-Continuous growth in web and backend development
-Increasing use in scientific computing, research, and finance
 
-Expanding applications in IoT, robotics, and cloud computing
-
-Continuous updates in Python versions and packages keep it modern and relevant
+- Dominates fields like AI, Machine Learning, Data Science, and Automation
+- Continuous growth in web and backend development
+- Increasing use in scientific computing, research, and finance
+- Expanding applications in IoT, robotics, and cloud computing
+- Continuous updates in Python versions and packages keep it modern and relevant
